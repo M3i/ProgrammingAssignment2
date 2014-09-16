@@ -1,6 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
+## First commit to test the Windows app for GitHub
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
